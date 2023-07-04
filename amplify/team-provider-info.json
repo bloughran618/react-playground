@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactplayground-dev-155420-authRole",
+      "UnauthRoleArn": "arn:aws:iam::496279898686:role/amplify-reactplayground-dev-155420-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::496279898686:role/amplify-reactplayground-dev-155420-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactplayground-dev-155420-deployment",
+      "UnauthRoleName": "amplify-reactplayground-dev-155420-unauthRole",
+      "StackName": "amplify-reactplayground-dev-155420",
+      "StackId": "arn:aws:cloudformation:us-east-1:496279898686:stack/amplify-reactplayground-dev-155420/92943810-1aa4-11ee-b734-0af4c629b9cf",
+      "AmplifyAppId": "d3me8o4pl9xe4f"
+    }
+  }
+}
